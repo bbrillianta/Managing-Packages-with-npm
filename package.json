@@ -1,8 +1,12 @@
 {
 	"author": "Bintang",
 	"name": "fcc-learn-npm-package-json",
+	"description": "A project for learning managing npm packages",
+	"keywords": [ "learning", "freecodecamp", "backend" ],
+	"license": "MIT",
+	"version": "1.0.0",
 	"dependencies": {
-		"express": "^4.14.0"
+		"express": "^4.17.1"
 	},
 	"main": "server.js",
 	"scripts": {
